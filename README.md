@@ -4,8 +4,8 @@ A lightweight Human Resource Management System (HRMS) built as a full-stack web 
 
 ## Live Demo
 
-- **Frontend**: *[https://hrms-lite-two-theta.vercel.app/]*
-- **Backend API**: *[https://hrms-lite-api-8kuc.onrender.com]*
+- **Frontend**: *https://hrms-lite-two-theta.vercel.app*
+- **Backend API**: *https://hrms-lite-api-8kuc.onrender.com*
 
 ## Tech Stack
 
